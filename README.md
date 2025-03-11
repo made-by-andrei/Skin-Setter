@@ -30,7 +30,7 @@ Deletes your saved skin and reverts to the default skin.
 
 ## 🖥️ Preview
 
-Here's a **Streamable** overlay for displaying your Skin-Changer status in the stream. 🚀  
+Here's a **Streamlabs** overlay for displaying your Skin-Changer status in the stream. 🚀  
 Click the button below to view it:
 
 [WATCH HERE!](https://streamable.com/ycwrwl)
