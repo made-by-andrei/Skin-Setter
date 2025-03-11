@@ -28,9 +28,9 @@ Deletes your saved skin and reverts to the default skin.
 
 ---
 
-## 🖥️ StreamLab Preview
+## 🖥️ Preview
 
-Here's a **StreamLab** overlay for displaying your Skin-Changer status in the stream. 🚀  
+Here's a **Streamable** overlay for displaying your Skin-Changer status in the stream. 🚀  
 Click the button below to view it:
 
 [WATCH HERE!](https://streamable.com/ycwrwl)
