@@ -1,5 +1,5 @@
 script_name("Skin-Changer")
-script_author("Andre")
+script_author("dreezy")
 script_version("Final")
 script_url("-")
 
@@ -86,3 +86,4 @@ function set_player_skin(id, skin)
     raknetEmulRpcReceiveBitStream(153, BS)
     raknetDeleteBitStream(BS)
 end
+
