@@ -1,4 +1,4 @@
-# Skin-Changer Script for SA-MP 🚗
+# 👚 Skin-Changer Script for SA-MP 👕
 
 ## 📜 Overview
 One of the most popular mods in the GTA San Andreas community is the classic Skin Changer.  
