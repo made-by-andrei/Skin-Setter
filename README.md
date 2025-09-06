@@ -1,24 +1,25 @@
 # Skin-Changer Script for SA-MP 🚗
 
 ## 📜 Overview
-Welcome to the **Skin-Changer** script! This Lua script for **San Andreas Multiplayer (SA-MP)** allows players to change their skin with ease. You can set your favorite skin, delete it, and more!
+One of the most popular mods in the GTA San Andreas community is the classic Skin Changer.  
+Since I like to make things a bit more complex, I decided to create something a little different.  
 
-This script is compatible with **MoonLoader** and is simple to use. The **Skin-Changer** helps customize your gameplay experience by giving you control over your character's appearance.
+This mod saves your chosen skin even after you exit the game, and also allows you to delete your selection if needed.  
+It’s simple and straightforward to use:  
+- `/skin [ID 0–316]` – set a skin  
+- `/delskin` – remove the saved skin  
 
----
+Bug fixes include: 
+- Skin ID 74 is now skipped
+- You can also select the CJ skin (ID 0)  
 
-## 🚀 Features
-- **Set Favorite Skin**: Use the `/skin ID` command to change your skin to your favorite one.
-- **Delete Favorite Skin**: Use the `/delskin` command to remove your saved skin and revert to your default skin (you'll need to relog).
-- **Error Handling**: Prevents crashes by rejecting invalid or restricted skin IDs (e.g., Skin ID 74).
-- **Persistent**: Your chosen skin is saved across sessions, so you don’t need to set it again after restarting the game.
+The project is final – there’s nothing else meaningful left to add.
 
 ---
 
 ## 🎮 Commands
 
-### `/skin <ID>` 
-Set your skin to a specific ID. This will persist even after you relog!  
+### `/skin <ID>`  
 Example: `/skin 20` changes your skin to the one with ID 20.  
 **Note:** ID must be between **0 and 311**, but **74** is restricted (to avoid crashes).
 
