@@ -1,5 +1,5 @@
 script_name("Skin-Changer")
-script_author("Wade")
+script_author("Andre")
 script_version("Final")
 script_url("-")
 
